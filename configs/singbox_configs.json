@@ -79,13 +79,13 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇭🇰 vmess-b1fd09d8 (Hong Kong)",
-        "🇭🇰 vmess-d8ced4a8 (Hong Kong)",
-        "🇭🇰 vmess-ffdfff22 (Hong Kong)",
-        "🇭🇰 vmess-5d153215 (Hong Kong)",
-        "🇭🇰 vmess-f8955ceb (Hong Kong)",
-        "🇭🇰 vmess-b39f7ad6 (Hong Kong)",
-        "🇭🇰 vmess-cdeaef62 (Hong Kong)",
+        "🇭🇰 vmess-3995a54c (Hong Kong)",
+        "🇭🇰 vmess-1cd58ba9 (Hong Kong)",
+        "🇭🇰 vmess-67c62b5e (Hong Kong)",
+        "🇭🇰 vmess-be35c176 (Hong Kong)",
+        "🇭🇰 vmess-44cac041 (Hong Kong)",
+        "🇭🇰 vmess-9991178e (Hong Kong)",
+        "🇭🇰 vmess-e3437a71 (Hong Kong)",
         "direct"
       ]
     },
@@ -93,13 +93,13 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇭🇰 vmess-b1fd09d8 (Hong Kong)",
-        "🇭🇰 vmess-d8ced4a8 (Hong Kong)",
-        "🇭🇰 vmess-ffdfff22 (Hong Kong)",
-        "🇭🇰 vmess-5d153215 (Hong Kong)",
-        "🇭🇰 vmess-f8955ceb (Hong Kong)",
-        "🇭🇰 vmess-b39f7ad6 (Hong Kong)",
-        "🇭🇰 vmess-cdeaef62 (Hong Kong)"
+        "🇭🇰 vmess-3995a54c (Hong Kong)",
+        "🇭🇰 vmess-1cd58ba9 (Hong Kong)",
+        "🇭🇰 vmess-67c62b5e (Hong Kong)",
+        "🇭🇰 vmess-be35c176 (Hong Kong)",
+        "🇭🇰 vmess-44cac041 (Hong Kong)",
+        "🇭🇰 vmess-9991178e (Hong Kong)",
+        "🇭🇰 vmess-e3437a71 (Hong Kong)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -111,7 +111,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇭🇰 vmess-b1fd09d8 (Hong Kong)",
+      "tag": "🇭🇰 vmess-3995a54c (Hong Kong)",
       "server": "42.2.113.136",
       "server_port": 80,
       "uuid": "6ddb6a68-d5f5-ca30-3943-cf0c9876d50c",
@@ -132,7 +132,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇭🇰 vmess-d8ced4a8 (Hong Kong)",
+      "tag": "🇭🇰 vmess-1cd58ba9 (Hong Kong)",
       "server": "42.2.113.136",
       "server_port": 80,
       "uuid": "73bfcc1c-5814-5f2a-b43a-3ef6af011db8",
@@ -153,7 +153,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇭🇰 vmess-ffdfff22 (Hong Kong)",
+      "tag": "🇭🇰 vmess-67c62b5e (Hong Kong)",
       "server": "42.2.113.136",
       "server_port": 80,
       "uuid": "c5437726-aa85-3ab0-f5ed-a62156a904f9",
@@ -174,7 +174,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇭🇰 vmess-5d153215 (Hong Kong)",
+      "tag": "🇭🇰 vmess-be35c176 (Hong Kong)",
       "server": "42.2.113.136",
       "server_port": 80,
       "uuid": "73bfcc1c-5814-5f2a-b43a-3ef6af011db8",
@@ -195,7 +195,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇭🇰 vmess-f8955ceb (Hong Kong)",
+      "tag": "🇭🇰 vmess-44cac041 (Hong Kong)",
       "server": "42.2.113.136",
       "server_port": 80,
       "uuid": "3bd247a8-993e-11ec-a8bf-f23c91cfbbc9",
@@ -216,7 +216,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇭🇰 vmess-b39f7ad6 (Hong Kong)",
+      "tag": "🇭🇰 vmess-9991178e (Hong Kong)",
       "server": "42.2.113.136",
       "server_port": 80,
       "uuid": "c4f3a1ca-8d10-11eb-a8bf-f23c91cfbbc9",
@@ -237,7 +237,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇭🇰 vmess-cdeaef62 (Hong Kong)",
+      "tag": "🇭🇰 vmess-e3437a71 (Hong Kong)",
       "server": "42.2.113.136",
       "server_port": 80,
       "uuid": "3bd247a8-993e-11ec-a8bf-f23c91cfbbc9",
