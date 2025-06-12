@@ -1,48 +1,48 @@
 {
-  "timestamp": "2025-06-12T08:23:40.693484+00:00",
+  "timestamp": "2025-06-12T08:52:23.595147+00:00",
   "channels": [
     {
-      "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vmess.html",
+      "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/US%20%F0%9F%87%BA%F0%9F%87%B8.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 36,
-        "valid_configs": 6,
-        "unique_configs": 6,
-        "avg_response_time": 0.12,
+        "total_configs": 484,
+        "valid_configs": 20,
+        "unique_configs": 20,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.99,
-        "last_success": "2025-06-12T08:23:35.377239+00:00",
+        "overall_score": 75.89,
+        "last_success": "2025-06-12T08:52:21.307020+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 0,
-          "vless://": 0,
-          "vmess://": 6,
-          "ss://": 0,
+          "hysteria2://": 1,
+          "vless://": 13,
+          "vmess://": 0,
+          "ss://": 6,
           "trojan://": 0,
           "tuic://": 0
         }
       }
     },
     {
-      "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Vmess#Aleph%20%E2%9D%A4%F0%9F%A4%8D%F0%9F%92%9A%20FREE2CONFIG",
+      "url": "https://www.v2nodes.com/subscriptions/country/us/?key=D568EDF666A92BB#us",
       "enabled": true,
       "metrics": {
-        "total_configs": 26240,
-        "valid_configs": 143,
-        "unique_configs": 143,
-        "avg_response_time": 0.1,
+        "total_configs": 756,
+        "valid_configs": 4,
+        "unique_configs": 4,
+        "avg_response_time": 0.28,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.99,
-        "last_success": "2025-06-12T08:23:40.691722+00:00",
+        "overall_score": 74.72,
+        "last_success": "2025-06-12T08:52:23.594491+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 0,
-          "vmess://": 143,
+          "vless://": 1,
+          "vmess://": 2,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
