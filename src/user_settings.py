@@ -3,8 +3,8 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vmess.html",
-    "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Vmess#Aleph%20%E2%9D%A4%F0%9F%A4%8D%F0%9F%92%9A%20FREE2CONFIG",
+    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/US%20%F0%9F%87%BA%F0%9F%87%B8.txt",
+    "https://www.v2nodes.com/subscriptions/country/us/?key=D568EDF666A92BB#us",
     # Add more URLs here if you want to include additional sources.
 ]
 
